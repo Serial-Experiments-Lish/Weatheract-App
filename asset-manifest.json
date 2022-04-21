@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weatheract-App/static/css/main.7ea37569.css",
+    "main.js": "/Weatheract-App/static/js/main.dca7cf04.js",
+    "static/media/galaxy.jpg": "/Weatheract-App/static/media/galaxy.66be3fdb3da7ced3f90a.jpg",
+    "index.html": "/Weatheract-App/index.html",
+    "main.7ea37569.css.map": "/Weatheract-App/static/css/main.7ea37569.css.map",
+    "main.dca7cf04.js.map": "/Weatheract-App/static/js/main.dca7cf04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea37569.css",
+    "static/js/main.dca7cf04.js"
+  ]
+}
